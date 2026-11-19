@@ -50,20 +50,9 @@ Document the login events you reviewed.
 
 Explain whether you found failed logins, successful logins, both, or neither.
 
-What I Learned
-
-Complete this section after performing the lab.
-
-Explain how Windows records authentication activity and how security professionals use event logs during investigations.
-
-Results
-
-Document the login events you reviewed.
-
-Explain whether you found failed logins, successful logins, both, or neither.
-
 **Conclusion**
 
 This lab introduced basic security monitoring and demonstrated how Windows authentication logs can help an analyst investigate potentially suspicious login activity.
 
 
+Author: Zakhena Shorter IT Professional | Recent IT Graduate
