@@ -84,54 +84,20 @@ Step 6: Document Your Findings
 
 Answer these questions:
 
-1. What is Windows Event Viewer?
+1. What is Windows Event Viewer? It is a built-in Windows diagnostic tool that records events happening on your computer. It helps you understands what Windows, applications, and hardware are doing and troubleshoot problems when something goes wrong.
 
-2. What does Event ID 4625 represent?
+2. What does Event ID 4625 represent? It means someone or something attempted to sign in to a Windows computer or account, but Windows rejected the login. 
 
-3. What does Event ID 4624 represent?
+3. What does Event ID 4624 represent? It means a user account successfully authenticated to a Windows computer or system.
 
-4. Why might repeated failed login attempts be suspicious?
+4. Why might repeated failed login attempts be suspicious? Repeated failed login attempts can be suspicious because they may indicate that someone is trying to gain unauthorized access to a computer or user account. 
 
-5. Why should an analyst investigate successful logins after repeated failures?
+5. Why should an analyst investigate successful logins after repeated failures? It could indicate that an attacker eventually guessed or obtained the correct password and gained unauthorized access.
 
 If your computer does not contain useful examples, use fictional training logs and clearly identify them as simulated data.
 
-**Screenshots**
-
-Save your screenshots inside the screenshots folder.
-
-Recommended filenames:
-
-- 01-windows-security-logs.png
-
-- 02-failed-login-events.png
-
-- 03-successful-login-events.png
-
-- 04-event-investigation-details.png
-
-Skills Demonstrated
-
-- Windows Event Viewer
-
-- Security log analysis
-
-- Authentication monitoring
-
-- Failed login investigation
-
-- Cybersecurity fundamentals
-
-- Security documentation
-
-What I Learned
 
 
-Explain how Windows records authentication activity and how security professionals use event logs during investigations.
-
-Results
-
-Document the login events you reviewed.
 
 Explain whether you found failed logins, successful logins, both, or neither.
 
